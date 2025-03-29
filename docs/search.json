@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "Offreculturelle.html",
+    "href": "Offreculturelle.html",
+    "title": "Offre culturelle Analyse",
+    "section": "",
+    "text": "This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+  },
+  {
+    "objectID": "Offreculturelle.html#r-markdown",
+    "href": "Offreculturelle.html#r-markdown",
+    "title": "Offre culturelle Analyse",
+    "section": "",
+    "text": "This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+  },
+  {
+    "objectID": "Offreculturelle.html#including-plots",
+    "href": "Offreculturelle.html#including-plots",
+    "title": "Offre culturelle Analyse",
+    "section": "Including Plots",
+    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
+  },
+  {
+    "objectID": "analyse.html",
+    "href": "analyse.html",
+    "title": "Analyse de l’offre culturelle",
+    "section": "",
+    "text": "title: “Analyse” format: html\n\n\nAnalyse de l’offre culturelle\ndonnees &lt;- read.csv(“donnees_culturelles.csv”) head(donnees) table(donnees$type)"
+  },
+  {
+    "objectID": "Offre culturelle.html",
+    "href": "Offre culturelle.html",
+    "title": "Offre culturelle",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Offre culturelle.html#quarto",
+    "href": "Offre culturelle.html#quarto",
+    "title": "Offre culturelle",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  }
+]
